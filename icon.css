@@ -1,0 +1,30 @@
+*{margin: 0px;padding: 0px;margin: auto;}
+
+img{width: 200px;height: 210px;
+margin-top:  10px;border-radius: 50%;border:2px solid rgb(10, 10, 10);}
+.jas{background-color: aqua;
+    text-align: center;
+    width: 350px;
+    height: 470px;
+    font-family: 'fantasy'cursive;
+    font-family: 'poppins',sans-serif;
+    margin-top: 100px;
+    padding-top: 30px;
+    border-radius: 21px;
+}
+.jas>h2{font-size: 20px;}
+.jas>p{font-size: 18px;}
+button{background-color: blueviolet;color: bisque;width: 120px;height: 40px;
+    border-radius: 20px;margin-top: 15px;outline: wheat;margin-left: 15px;margin-right: 10px;
+    font-family: 'fastand',cursive;font-family: 'poppins',sans-serif;font-weight: bold;}
+    div>:nth-child(4){color: rgb(233, 183, 183);font-size: 25px;background-color: rgb(12, 12, 240);margin: 10px;
+    padding: 10px;border-radius: 50%;}
+    div>:nth-child(5){color: rgb(221, 138, 138);font-size: 25px;background-color: rgb(4, 248, 248));margin: 5px;
+        padding: 10px;border-radius: 50%;}
+    div>:nth-child(6){color: rgb(185, 125, 125);font-size: 25px;background-color: rgb(216, 168, 151));margin: 5px;
+            padding: 10px;border-radius: 50%;}
+    div>:nth-child(7){color: rgb(233, 183, 183);font-size: 25px;background-color: rgb(202, 131, 131));margin: 5px;
+                padding: 10px;border-radius: 50%;}
+     div>:nth-child(10){padding: 10px;margin-top: 20px;font-size: 12px;}
+     div>:nth-child(11){padding: 10px;margin-top: 20px;font-size: 12px;}
+     div>:nth-child(12){padding: 10px;margin-top: 20px;font-size: 12px;}              
